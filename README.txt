@@ -1,4 +1,12 @@
 
+This fork fixes a SAM-writing bug.
+
+Install it with: `mvn install -DskipTests`
+
+Then point ADAM at it, like what this branch does:
+
+     https://github.com/ryan-williams/adam/tree/hadoop-bam-fix
+
   Hadoop-BAM
 ==============
 
